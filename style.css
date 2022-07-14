@@ -1,0 +1,41 @@
+.container1 {background-color: #1f2937;}
+
+
+.header {
+    background-color: #1f2937;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+}
+
+
+
+ul {
+    display: flex;
+    gap: 16px;
+    list-style: none;
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+
+.box1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.box1 h1 {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: 900px;
+}
+
+
+p {
+    color: #e5e7eb;
+    font-size: 18px;
+}

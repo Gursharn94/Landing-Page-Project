@@ -60,3 +60,27 @@ p {
     background-color: #3882f6;
     color: #e5e7eb;
 }
+
+
+.randominfo {
+    text-align: center;
+    margin-bottom: 32px;
+    padding: 16px;
+    font-size: 36px;
+    font-weight: 900;
+}
+
+.container2 {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.info {
+    width: 250px;
+}
+
+p {
+    color: black;
+}
+
